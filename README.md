@@ -11,7 +11,7 @@ Sunoikisis Digital Classics 2020-2021 Winter, Spring, Summer semester syllabuses
 
 ***
 #### Other Activites
-* [Inclusive Classics: Eos-READS for Black Lives Matter, September 29 and October 1, 2020](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/blob/master/Eos_READS_2020.pdf) (co-organized with the Department of Classics at the University of Florida) (more information coming soon)
+* [Inclusive Classics: Eos-READS for Black Lives Matter, September 29 and October 1, 2020](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/blob/master/Eos_READS_2020.pdf) (co-organized with the Department of Classics at the University of Florida) Register by clicking [here](https://docs.google.com/forms/d/e/1FAIpQLSf89CF2M9wjKgIT7Vhwwat_B2NcR5eTsyZDUv73YFh6uckV-w/viewform)
 
 
 ***
