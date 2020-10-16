@@ -4,7 +4,7 @@ Sunoikisis Digital Classics 2020-2021 Winter, Spring, Summer semester syllabuses
 ***
 ### SunoikisisDC 2020-2021 Courses (Fall 2020 and Spring and Summer 2021)
 * [SunoikisisDC 2020-2021 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki) (syllabi and class outlines)
-   * [Fall 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Fall-2020-Sunoikisis-DC) (chaired by Gabriel Bodard, Monica Berti, Irene Vagioankis and Polina Yordanova)
+   * [Fall 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Fall-2020-Sunoikisis-DC) (chaired by Gabriel Bodard, Monica Berti, Irene Vagionakis and Polina Yordanova)
    * (tba) [Spring 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Spring-2021-Sunoikisis-DCH) (chaired by Gabriel Bodard, Valeria Vitale, Andrea Wallace and Alicia Walsh)
    * (tba) [Summer 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Summer-2021-Sunoikisis-DC) (chaired by Monica Berti)
 
