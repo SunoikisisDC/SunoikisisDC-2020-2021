@@ -1,5 +1,6 @@
-# SunoikisisDC-2020-2021
-Sunoikisis Digital Classics 2020-2021 Winter, Spring, Summer semester syllabuses
+# Sunoikisis Digital Classics 2020-2021 Winter, Spring, Summer semester syllabuses
+
+SunoikisisDC is a massively collaborative, international and open teaching programme for digital humanities and cultural heritage, delivered roughly at Masters level, which is streamed live and archived indefinitely on Youtube.
 
 ***
 ### SunoikisisDC 2020-2021 Courses (Fall 2020 and Spring and Summer 2021)
