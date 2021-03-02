@@ -7,7 +7,7 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 * [SunoikisisDC 2020-2021 Wiki](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki) (syllabi and class outlines)
    * [Fall 2020: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Fall-2020-Sunoikisis-DC) (chaired by Gabriel Bodard, Monica Berti, Irene Vagionakis and Polina Yordanova)
    * [Spring 2021: Sunoikisis Digital Cultural Heritage](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Spring-2021-Sunoikisis-DCH) (chaired by Gabriel Bodard, Valeria Vitale, Andrea Wallace and Alicia Walsh)
-   * (tba) [Summer 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Summer-2021-Sunoikisis-DC) (chaired by Monica Berti)
+   * [Summer 2021: Sunoikisis Digital Classics](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021/wiki/Summer-2021-Sunoikisis-DC) (chaired by Monica Berti)
 
 
 ***
