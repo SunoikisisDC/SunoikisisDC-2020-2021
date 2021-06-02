@@ -12,7 +12,7 @@ SunoikisisDC is a massively collaborative, international and open teaching progr
 
 ***
 #### Partnership
-Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of the Pelagios Network ([Pegadogy](https://pelagios.org/activities/pedagogy/)) to support the use of linked data in education and cultural heritage. Our representative to the Pelagios Network is co-organizer Valeria Vitale.
+Starting from 2019 and as part of a long established collaboration, SunoikisisDC is a project partner of the Pelagios Network ([Pedagogy](https://pelagios.org/activities/pedagogy/)) to support the use of linked data in education and cultural heritage. Our representative to the Pelagios Network is co-organizer Valeria Vitale.
 
 ***
 #### Other activities
